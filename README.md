@@ -43,7 +43,7 @@ Navigate to the installation URL (e.g., http://your-domain.com/install.php) and 
 <div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://github.com/xrtnx/VoidNet-Dropper/blob/main/Install.png?raw=true"></img></div>
 
 Login
-Once the installation is complete, you will be redirected to the login page.
+Once the installation is complete, you will navigate to the index URL (e.g., http://your-domain.com or http://your-domain.com/index.php)
 
 <div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://github.com/xrtnx/VoidNet-Dropper/blob/main/Login.png?raw=true"></img></div>
 
