@@ -8,9 +8,9 @@
 <h2 align="center"> 💻 Compatibility </h2>
 <p align="center">Currently only works on Windows 10-11, Mac and Linux are not supported at the moment.</p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/48/000000/windows-11.png" alt="Windows 11 Supported"/>
-<img src="https://www.google.com/search?q=https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="Mac OS Unsupported"/> ❌
-<img src="https://www.google.com/search?q=https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux Unsupported"/> ❌
+<img src="https://github.com/xrtnx/VoidNet-Dropper/blob/main/Windows.png?raw=true" alt="Windows 10 and 11 Supported" width="48"/>
+<img src="https://github.com/xrtnx/VoidNet-Dropper/blob/main/Macintosh.png?raw=true" alt="Mac OS Unsupported" width="48"/>
+<img src="https://github.com/xrtnx/VoidNet-Dropper/blob/main/Linux.png?raw=true" alt="Linux Unsupported" width="48"/>
 </p>
 
 <br>
