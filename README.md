@@ -15,6 +15,10 @@
 
 <br>
 
+<h2 align="center"> NOTICE: </h2>
+<p align="center">THE PROJECT IS CURRENTLY NOT FUD (FULLY UNDETECTED) OR UD (UNDETECTED) TO MY NOTICE AND IS NOT ON PURPOSE SUPPOSED TO BE, YOU WILL NEED TO EDIT THE PYTHON FILE YOURSELF IF YOU ARE WANTING THIS TO BE UNDETECTED, UPDATES TO THE PYTHON AGENT WILL COME SOON!</p>
+<p align="center">
+
 <h2 align="center"> 🤖 Features </h2>
 
 Dashboard: Get a quick overview of total clients, pending tasks, completed tasks, and screenshots.
